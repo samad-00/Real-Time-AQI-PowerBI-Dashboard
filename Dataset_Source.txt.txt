@@ -1,0 +1,4 @@
+Dataset Name: Real-Time Air Quality Index (AQI) – Various Locations
+Source: Open Government Data Platform, Government of India
+URL: https://www.data.gov.in/resource/real-time-air-quality-index-various-locations
+Data Type: Live API-based dataset
